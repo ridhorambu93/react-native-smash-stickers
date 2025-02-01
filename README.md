@@ -15,7 +15,9 @@
 3. Minimal: Proyek dengan minimal setup.
 
 ## Instalasi
+
 Create App : npx create-expo-app@latest
+
 Start App : npx expo start
 
 ## Learn more
