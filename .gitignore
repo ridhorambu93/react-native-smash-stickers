@@ -36,3 +36,28 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+# Node modules
+node_modules/
+
+# Build artifacts
+android/
+ios/
+*.apk
+*.aab
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
